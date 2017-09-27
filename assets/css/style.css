@@ -135,7 +135,6 @@ hr.footer-divider {
 	margin-top:25px;
 }
 
-
 .heading-stripe {
 	margin-top:5px;
 	padding-left:0;
@@ -533,4 +532,10 @@ img.project-git-human {
     .navbar {
         font-size: 94%;
     }
+}
+
+@media (max-width: 768px) {
+  .hero-text {
+    font-size: 5em;
+  }
 }
